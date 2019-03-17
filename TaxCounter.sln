@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCounter", "TaxCounter\TaxCounter.csproj", "{57DC8FCF-B563-4B79-9D5C-85CA4AC0874C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57DC8FCF-B563-4B79-9D5C-85CA4AC0874C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DC8FCF-B563-4B79-9D5C-85CA4AC0874C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57DC8FCF-B563-4B79-9D5C-85CA4AC0874C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DC8FCF-B563-4B79-9D5C-85CA4AC0874C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1FE1A8A-B813-4586-ACF5-5B917F82F1DA}
+	EndGlobalSection
+EndGlobal
